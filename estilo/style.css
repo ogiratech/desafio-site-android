@@ -48,12 +48,13 @@ background-image: linear-gradient(to right, var(--cor2), var(--cor4));
 color: white;
 text-align: center;
 min-height: 150px;
+padding-top: 20px;
 }
 
 header > h1{
     color: white;
     font-family: var(--fonte-audio);
-    margin-bottom: 20px;
+    padding-bottom: 20px;
     text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.479);
 }
 
@@ -68,24 +69,21 @@ margin: auto;
 
 nav {
         background-color: var(--cor6);
+        font-size: 1.5em;
         color: var(--cor1);
-        margin:auto;
-        padding: 10px;
-        box-shadow: inset;
         text-align: center;
+        margin:auto;
+        padding: 20px;
+        box-shadow: inset;
 }
 
 nav a {
-    float: left;
-    display: block;
     color: #f2f2f2;
     padding: 14px 16px;
     text-decoration: none;
   }
 
   nav a:visited {
-    float: left;
-    display: block;
     color: #f2f2f2;
     padding: 14px 16px;
     text-decoration: none;
