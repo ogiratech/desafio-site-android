@@ -14,7 +14,7 @@ Tópicos abordados no módulo:
 
 Acesse o site pelo [link do Github Pages](https://ogiratech.github.io/desafio-site-android/)
 
-![Print do Site](/imagens/site-bugdroid.png)
+![Print inteiro do Site](/imagens/site-bugdroid.png)
 
 ![Banner do Curso](https://scontent.fplu17-1.fna.fbcdn.net/v/t1.6435-9/82068026_2666905313378773_5446343737661718528_n.png?_nc_cat=107&ccb=1-7&_nc_sid=dd9801&_nc_ohc=b17x2g_aeKcAX9vKyxz&_nc_ht=scontent.fplu17-1.fna&oh=00_AfD2sHtLSiOohy3u73QfWo9jxVozedT6uyCnx1psPgD62g&oe=639EE7BB)
 
